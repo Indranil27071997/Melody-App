@@ -1,0 +1,20 @@
+
+1) Indranil Paul-- Creation of login,registration page and offline music playable feature
+
+2) Indrani Bardhan-- Creation of playlist(fetching data from Napster api)and CRUD operation on album track
+
+3)B.Chandu Priyanka -- Dashboard creation and user bio CRUD operation
+
+4) P.Sai Kiran-- Dashboard creation and CRUD operation on comments 
+
+=======================================================================================================================================================
+Due to lack of time and since two of our members, B.Chandu Priyanka (was having college exams from 16th to 20th of September,2020, and was unavailable) 
+and P.Sai Kiran (He missed the full angular classes due to exams), could not integrate their CRUD operations with the final 
+project due to lack of time and idea on certain topics, their CRUD operation( User bio CRUD operation and CRUD operation on comments) is being shared below:
+
+1)B. Chandu Priyanka (User bio CRUD operation gitHub link) - https://github.com/BonalaChanduPriyanka/Project.
+
+2)P. Sai Kiran( CRUD operation on comments gittHub link) - https://github.com/puttakotasaikiran/Project.
+
+=======================================================================================================================================================
+
